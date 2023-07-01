@@ -1,0 +1,24 @@
+{
+  "name": "masai-job-portal-json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "json-server --watch db.json --port 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedsohel22/masai-job-portal-json-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syedsohel22/masai-job-portal-json-server/issues"
+  },
+  "homepage": "https://github.com/syedsohel22/masai-job-portal-json-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
